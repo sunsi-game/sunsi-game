@@ -3,8 +3,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Sunsi's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---
 <br>
-[Sunsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunsi-game&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunsi-game&layout=compact) 
+![Sunsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunsi-game&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunsi-game&layout=compact)
+
+
 <br>
 
 ## 💻 DEV's log 💻
