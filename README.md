@@ -1,19 +1,23 @@
 <div align="center">
-  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=82E18CF8&center=true&vCenter=true&repeat=false&width=600&lines=++++++++++++++++Imagine+it.+Build+it.)](https://git.io/typing-svg)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Sunsi's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+
+✨ GitHub ✨
 ---
-<div align="center">
- ✨ GitHub ✨ 
-</div>
-  
+
 ![Sunsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunsi-game&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunsi-game&layout=compact)
 <br><br>
+
+
+📝About Me📝
 ---
 
-<div align="center">
+
  🛠 Stack 🛠
-</div><br>
+---
+
 <div style="display:flex; flex-direction:row;">
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
