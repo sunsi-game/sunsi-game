@@ -5,7 +5,7 @@
 
 <p>
 Sunsi's GitHub stats 
-</p>[![JIHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiholee0&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
+</p>![Sunsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunsi-game&show_icons=true&theme=radical)
  
 <br>
 
@@ -57,5 +57,3 @@ Sunsi's GitHub stats
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"> 
     <br>
 </div><br>
-</div>
-출처: https://easyhomputer.tistory.com/22 [6_oHji:티스토리]
