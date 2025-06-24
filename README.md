@@ -5,8 +5,9 @@
 
 <p>
 Sunsi's GitHub stats 
-</p>![Sunsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunsi-game&show_icons=true&theme=radical)
- 
+</p>!
+[Sunsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunsi-game&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunsi-game&layout=compact) 
 <br>
 
 ## 💻 DEV's log 💻
