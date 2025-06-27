@@ -1,7 +1,7 @@
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=85)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=82E18CF8&center=true&vCenter=true&repeat=false&width=600&lines=++++++++++++++++Imagine+it.+Build+it.)](https://git.io/typing-svg)
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Sunsi's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 ✨ GitHub ✨
 ---
