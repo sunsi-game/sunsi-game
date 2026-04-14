@@ -11,24 +11,23 @@
 ---
 
 ### 🎮 2026
- [언리얼 블루프린트 기반 **공포게임 제작**](https://github.com/사용자명/레포이름)
- [C++ 기반 콘솔 게임 제작 **(Pong)**](https://github.com/사용자명/레포이름)
- [C++ 기반 콘솔 게임 제작 **(Mario)**](https://github.com/사용자명/레포이름)
+- [언리얼 블루프린트 기반 **공포게임 제작**](https://github.com/사용자명/레포이름)
+- [C++ 기반 콘솔 게임 제작 **(Pong)**](https://github.com/사용자명/레포이름)
+- [C++ 기반 콘솔 게임 제작 **(Mario)**](https://github.com/사용자명/레포이름)
 
 ### 🥽 2025
- [**HoloLens 2 앱 개발**(홀로그램 그래픽 연구실)](https://github.com/사용자명/레포이름)
+- [**HoloLens 2 앱 개발**(홀로그램 그래픽 연구실)](https://github.com/사용자명/레포이름)
    
 
 ### 🚀 2024
- [**스마일게이트 게임잼**](https://github.com/사용자명/레포이름)
- [**학업 관리 앱 개발**(프론트엔드 담당)](https://github.com/사용자명/레포이름)
- [**이미지 트래킹 AR 앱 개발**(메타버스 개발자 경진대회)](https://github.com/사용자명/레포이름)
+- [**스마일게이트 게임잼**](https://github.com/사용자명/레포이름)
+- [**학업 관리 앱 개발**(프론트엔드 담당)](https://github.com/사용자명/레포이름)
+- [**이미지 트래킹 AR 앱 개발**(메타버스 개발자 경진대회)](https://github.com/사용자명/레포이름)
    
 
 ### 💻 2023
- [**WebGL Scene Graph**(컴퓨터 그래픽스 프로젝트)](https://github.com/사용자명/레포이름)
-   
- [**치매 예방 게임 개발**( 한이음 프로보노)](https://github.com/사용자명/레포이름)
+- [**WebGL Scene Graph**(컴퓨터 그래픽스 프로젝트)](https://github.com/사용자명/레포이름)  
+- [**치매 예방 게임 개발**( 한이음 프로보노)](https://github.com/사용자명/레포이름)
   
 
  🛠 Stack 🛠
