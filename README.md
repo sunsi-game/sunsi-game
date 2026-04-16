@@ -17,7 +17,7 @@
 
 ### 🥽 2025
 - [**HoloLens 2 앱 개발**(홀로그램 그래픽 연구실)]
-- [**FPS 활 게임 (활 담)**](https://github.com/sunsi-game/God_of_Archer?tab=readme-ov-file)
+- [**FPS 활 게임 (활 담당)**](https://github.com/sunsi-game/God_of_Archer?tab=readme-ov-file)
 - [**게임 AI 논문 연구**](https://github.com/sunsi-game/AAPPO)
    
 
