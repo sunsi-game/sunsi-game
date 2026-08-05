@@ -5,13 +5,15 @@
 
 ## 📝 About Me
 
-게임 클라이언트 개발자를 목표로  
-**게임 제작, 그래픽스, XR/AR 프로젝트**를 중심으로 경험을 쌓아왔습니다.
+게임 개발자를 목표로  
+**게임 구조를 고민하며, 리팩토링하는 것을 즐기는 개발자**입니다.
 
 ---
 
 ### 🎮 2026
-- [언리얼 블루프린트 기반 **공포게임 제작**](https://github.com/sunsi-game/Chilla-s-art)
+- [**AION 2**](https://github.com/sunsi-game/AION2)
+- [**Devil May Cry 5**](https://github.com/sunsi-game/DMC5_Vergil)
+- [**공포게임 제작**](https://github.com/sunsi-game/Chilla-s-art)
 - [C++ 기반 콘솔 게임 제작 **(Pong)**](https://github.com/sunsi-game/Pong)
 - [C++ 기반 콘솔 게임 제작 **(Mario)**](https://github.com/sunsi-game/Mario)
 
