@@ -11,6 +11,7 @@
 ---
 
 ### 🎮 2026
+- [**졸업 작품 (진행 중)**](https://github.com/j1sung/DKU-EndGame/tree/KHY)
 - [**AION 2**](https://github.com/sunsi-game/AION2)
 - [**Devil May Cry 5**](https://github.com/sunsi-game/DMC5_Vergil)
 - [**공포게임 제작**](https://github.com/sunsi-game/Chilla-s-art)
