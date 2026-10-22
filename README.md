@@ -18,7 +18,7 @@
 - [C++ 기반 콘솔 게임 제작 **(Mario)**](https://github.com/sunsi-game/Mario)
 
 ### 🥽 2025
-- [**HoloLens 2 앱 개발**(홀로그램 그래픽 연구실)]
+- **HoloLens 2 앱 개발**(홀로그램 그래픽 연구실)
 - [**FPS 활 게임 (활 담당)**](https://github.com/sunsi-game/God_of_Archer?tab=readme-ov-file)
 - [**게임 AI 논문 연구**](https://github.com/sunsi-game/AAPPO)
    
@@ -26,7 +26,7 @@
 ### 🚀 2024
 - [**스마일게이트 게임잼**](https://github.com/sunsi-game/game_jam)
 - [**학업 관리 앱 개발**(프론트엔드 담당)](https://github.com/sunsi-game/NAMU-FE)
-- [**이미지 트래킹 AR 앱 개발**(메타버스 개발자 경진대회)]
+- **이미지 트래킹 AR 앱 개발**(메타버스 개발자 경진대회)
    
 
 ### 💻 2023
