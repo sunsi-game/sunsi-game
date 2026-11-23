@@ -11,6 +11,7 @@
 ---
 
 ### 🎮 2026
+- [**AI 자동화**](https://github.com/sunsi-game/AI-QA)
 - [**졸업 작품**](https://github.com/j1sung/DKU-EndGame)
 - [**AION 2**](https://github.com/sunsi-game/AION2)
 - [**Devil May Cry 5**](https://github.com/sunsi-game/DMC5_Vergil)
